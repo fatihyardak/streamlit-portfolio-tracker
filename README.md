@@ -4,7 +4,7 @@
 
 This project allows users to track their stock and cryptocurrency portfolios. Users can input their asset purchases and compare them with the current market prices to analyze their gains or losses. It is built using Streamlit and several popular Python libraries.
 
-![Portfolio Screenshot](images/portfolio_screenshot.png)
+![Portfolio Screenshot](/portfolio_screenshot.png)
 
 
 ## Technologies Used
